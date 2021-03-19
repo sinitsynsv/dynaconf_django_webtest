@@ -4,7 +4,7 @@ beautifulsoup4==4.8.2
 Click==7.0
 Django==3.0.2
 django-webtest==1.9.7
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dynaconf==2.2.2
 more-itertools==8.1.0
 packaging==20.0
